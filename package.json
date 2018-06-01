@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/cliechty/ng-annotate-webpack-plugin",
   "dependencies": {
-    "ng-annotate": "git://github.com/litebox-cashdesk/ng-annotate.git#fdc6db4bb3d95f5e43c0ce121670ef7516efe43c",
+    "ng-annotate-patched": "git://github.com/nevcos/ng-annotate-patched.git#es6-class-support",
     "webpack-core": "^0.6.5"
   }
 }
